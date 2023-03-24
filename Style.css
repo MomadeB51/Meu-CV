@@ -1,0 +1,64 @@
+#folha{
+    width: 595px;
+    height: 1350px;
+    border: 1px solid darkcyan;
+    margin: auto;
+    position: relative;
+    background-color: whitesmoke;
+}
+#perfil{    
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 150px;
+    border: 1px solid black;
+    box-shadow: 2px 3px 10px black;
+   margin-top: 30px;
+   margin-left: 20px;
+   filter: grayscale(100%);
+   top: 5cm;
+}
+#nome{
+    float: left;
+    margin-top: 60px;
+    margin-left: 30px;
+ font-family: arial;
+    font-size: ;
+}
+
+    .AB{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 30px;
+    width: 505px;
+}
+.AB h1{
+    margin: 0;
+}
+.sep{
+    width: 100%;
+    height: 5px;
+    color: black;
+    background: rgb(233, 226, 226);
+}
+.menu{
+
+height: 40px;
+background-color:rgb(40, 210, 233);
+display: flex;
+padding: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width:15cm ;
+height: min-content;
+position: fixed;
+word-spacing: 15px;
+color: black;
+
+}
+.BT{
+    background-color: rgb(57, 223, 235);
+    border: none;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+}
